@@ -30,6 +30,6 @@ import {CloudinaryModule} from '@cloudinary/ng';
     FormsModule,
     ReactiveFormsModule,
     CloudinaryModule
-  ]
+    ]
 })
 export class ProductsModule { }
